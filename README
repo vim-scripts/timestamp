@@ -1,0 +1,4 @@
+This is a mirror of http://www.vim.org/scripts/script.php?script_id=2159
+
+This SCRIPT will add/update the timestamp when you close the source file.
+C++, C, Java, Makefile, rb, py, vim script is supported.
